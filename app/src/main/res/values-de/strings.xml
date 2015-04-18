@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang">de</string>
+    <string name="connection_error">Überprüfen Sie Ihre Internetverbindung</string>
+    <string name="noborder">Dieses Land hat keine Grenze haben</string>
+    <string name="borderletter">G</string>
+    <string name="regionletter">R</string>
+</resources>

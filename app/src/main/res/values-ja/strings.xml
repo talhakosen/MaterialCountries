@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lang">ja</string>
+    <string name="connection_error">あなたのインターネット接続を確認してください</string>
+    <string name="noborder">この国はすべての国境がありません</string>
+    <string name="borderletter">ボ</string>
+    <string name="regionletter">地</string>
+</resources>

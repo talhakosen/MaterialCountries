@@ -1,0 +1,9 @@
+<resources>
+    <string name="map_key">AIzaGbTK1Ct1wMQiLYGuoYSyBvgwq_Y1HK_Q5Pe</string>
+    <string name="app_name">Viagogo</string>
+    <string name="lang">en</string>
+    <string name="connection_error">Check your internet connection</string>
+    <string name="noborder">This country does not have any border</string>
+    <string name="borderletter">B</string>
+    <string name="regionletter">R</string>
+</resources>
